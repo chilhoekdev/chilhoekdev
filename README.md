@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <a href="https://chilhoek.dev" target="_blank">
+  <a href="https://chilhoek.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-7DD398?style=for-the-badge&logo=google-chrome&logoColor=0A4021" alt="Portfolio"/>
   </a>
   </div>
